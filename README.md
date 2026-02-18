@@ -93,9 +93,3 @@ and update paths inside the notebook.
 
 Based on YOLOv5 by Ultralytics.
 Architecture modifications implemented for academic research.
-
----
-
-## ✨ Author
-
-Academic exploration of attention-enhanced object detection for environmental monitoring applications.
